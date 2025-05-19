@@ -10,7 +10,7 @@ A Userscript designed for Safari on iOS (with a Userscripts extension) to automa
 * Specifically ignores links pointing to Debrid Media Manager (DMM) to allow normal browser navigation for those.
 
 ## Authors
-* [Kyospia]
+* Kyospia
 * Yumeko (Conceptual Assistance & Debugging) 
 
 ## Compatibility
