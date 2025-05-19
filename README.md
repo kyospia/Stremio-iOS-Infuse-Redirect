@@ -21,7 +21,9 @@ A Userscript designed for Safari on iOS (with a Userscripts extension) to automa
 
 ## Installation
 1.  Ensure you have a Userscripts manager extension installed and configured in Safari on your iOS device.
-2.  Download the `StremioToInfuseIOS.user.js` file from this repository. Save the `StremioToInfuseIOS.user.js` file to the designated folder used by your Userscripts extension in the Files app on your iOS device.
+2.  Download the `StremioToInfuseIOS.user.js` file from this repository.
+    * (Option A - Direct Install): If your Userscript manager supports installing from a URL, you can use this link: `[Lien vers le fichier raw StremioToInfuseIOS.user.js - voir Étape 3 ci-dessous]`
+    * (Option B - Manual): Save the `StremioToInfuseIOS.user.js` file to the designated folder used by your Userscripts extension in the Files app on your iOS device.
 3.  The Userscript manager should automatically detect and enable the script for `web.strem.io`.
 
 ## How It Works
