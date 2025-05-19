@@ -25,6 +25,7 @@ A Userscript designed for Safari on iOS (with a Userscripts extension) to automa
     * (Option A - Direct Install): If your Userscript manager supports installing from a URL, you can use this link: `(https://github.com/kyospia/Stremio-iOS-Infuse-Redirect/raw/refs/heads/main/StremioToInfuseIOS.user.js)`
     * (Option B - Manual): Save the `StremioToInfuseIOS.user.js` file to the designated folder used by your Userscripts extension in the Files app on your iOS device.
 3.  The Userscript manager should automatically detect and enable the script for `web.strem.io`.
+4.  Remember to disable the external player option in your Stremio settings.
 
 ## How It Works
 The script attaches an event listener to Stremio Web. When a stream link is clicked:
