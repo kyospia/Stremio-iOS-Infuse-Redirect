@@ -3,12 +3,12 @@
 // @namespace    yumeko.stremio.infuse.bridge 
 // @version      1.0.1 
 // @description  Opens Stremio Web video stream links in Infuse.app on iOS Safari, ignoring DMM links.
-// @author       [Votre nom/pseudo GitHub ici] & Yumeko
+// @author       Kyospia & Yumeko
 // @match        *://web.strem.io/*
 // @grant        none
 // @license      MIT
-// @downloadURL  [Collez ici l'URL Raw de votre script]
-// @updateURL    [Collez ici la MÊME URL Raw de votre script] 
+// @downloadURL  https://github.com/kyospia/Stremio-iOS-Infuse-Redirect/raw/refs/heads/main/StremioToInfuseIOS.user.js
+// @updateURL    https://github.com/kyospia/Stremio-iOS-Infuse-Redirect/raw/refs/heads/main/StremioToInfuseIOS.user.js
 // ==/UserScript==
 
 (function () {
