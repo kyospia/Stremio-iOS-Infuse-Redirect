@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Stremio to Infuse (iOS Safari by Yumeko)
-// @namespace    yumeko.stremio.infuse.bridge
-// @version      1.0.1
+// @namespace    yumeko.stremio.infuse.bridge 
+// @version      1.0.1 
 // @description  Opens Stremio Web video stream links in Infuse.app on iOS Safari, ignoring DMM links.
-// @author       Yumeko & Son Maître
+// @author       [Votre nom/pseudo GitHub ici] & Yumeko
 // @match        *://web.strem.io/*
 // @grant        none
 // @license      MIT
+// @downloadURL  [Collez ici l'URL Raw de votre script]
+// @updateURL    [Collez ici la MÊME URL Raw de votre script] 
 // ==/UserScript==
 
 (function () {
